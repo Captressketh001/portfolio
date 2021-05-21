@@ -1,0 +1,89 @@
+{
+    "portfolio":
+    [
+        {
+            "title": "Portfolio", 
+            "coded_with": "HTML, CSS and JS",
+            "repo_link": "",
+            "live_url_link":"https://captressketh.netlify.app",
+            "img": "portfolio.png"
+        },
+        {
+            "title": "The Voice Farm", 
+            "coded_with": "HTML, CSS and JS",
+            "repo_link": "https",
+            "live_url_link":"https://voicefarm.netlify.app",
+            "img": "voice.png"
+        },
+        {
+            "title": "DOZI", 
+            "coded_with": "HTML, CSS and JS",
+            "repo_link": "https",
+            "live_url_link":"https://dozi.netlify.app",
+            "img": "dozi.png"
+        },
+        {
+            "title": "Kalculate", 
+            "coded_with": "HTML, CSS and JS",
+            "repo_link": "https",
+            "live_url_link":"https://kalculate.netlify.app",
+            "img": "portfolio.png"
+        },
+        {
+            "title": "Weathlify", 
+            "coded_with": "HTML, CSS and JS",
+            "repo_link": "https",
+            "live_url_link":"https://weathlify.netlify.app",
+            "img": "weathlify.png"
+        },
+        {
+            "title": "Reformed", 
+            "coded_with": "HTML, CSS and JS",
+            "repo_link": "https",
+            "live_url_link":"https://reformed.netlify.app",
+            "img": "reformed.png"
+        },
+        {
+            "title": "Fylo Dark Theme", 
+            "coded_with": "HTML, CSS and JS",
+            "repo_link": "https",
+            "live_url_link":"https://dk-fylo.netlify.app",
+            "img": "weathlify.png"
+        },
+        {
+            "title": "Easybank", 
+            "coded_with": "HTML, CSS and JS",
+            "repo_link": "https",
+            "live_url_link":"https://kalculate.netlify.app",
+            "img": "weathlify.png"
+        },
+        {
+            "title": "SM Dashboard", 
+            "coded_with": "HTML, CSS and JS",
+            "repo_link": "https",
+            "live_url_link":"https://sm-dash.netlify.app",
+            "img": "sm-dash.png"
+        },
+        {
+            "title": "Todoleast", 
+            "coded_with": "Python and FlaskSQLAlchemy",
+            "repo_link": "https",
+            "live_url_link":"https://todoleast.heroku.app",
+            "img": "todoleast.png"
+        },
+        {
+            "title": "Adully", 
+            "coded_with": "Python and FlaskSQLAlchemy",
+            "repo_link": "https",
+            "live_url_link":"kalculate.netlify.app",
+            "img": "adully.png"
+        },
+        {
+            "title": "Mini Dict", 
+            "coded_with": "Python and FlaskSQLAlchemy",
+            "repo_link": "https",
+            "live_url_link":"https://todoleast.heroku.app",
+            "img": "mini-dict.png"
+        }
+    ]
+}
