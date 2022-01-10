@@ -8,6 +8,12 @@
             "live_url_link":"https://ea-sybank.netlify.app"
         },
         {
+            "title": "Shortee", 
+            "coded_with": "HTML, CSS and JS",
+            "repo_link": "https://github.com/Captressketh001/url_shortner",
+            "live_url_link":"https://shortee.netlify.app"
+        },
+        {
             "title": "Portfolio", 
             "coded_with": "HTML, CSS and JS",
             "repo_link": "https://github.com/Captressketh001/portfolio",
@@ -66,7 +72,7 @@
             "title": "Adully", 
             "coded_with": "Python and FlaskSQLAlchemy",
             "repo_link": "https://github.com/Captressketh001/adully",
-            "live_url_link":""
+            "live_url_link":"https://github.com/Captressketh001/adully"
         }
     ]
 }
