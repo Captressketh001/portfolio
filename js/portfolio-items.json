@@ -60,13 +60,13 @@
             "title": "Todoleast", 
             "coded_with": "Python and FlaskSQLAlchemy",
             "repo_link": "https://github.com/Captressketh001",
-            "live_url_link":"https://todoleast.heroku.app"
+            "live_url_link":"https://todoleast.herokuapp.com"
         },
         {
             "title": "Adully", 
             "coded_with": "Python and FlaskSQLAlchemy",
-            "repo_link": "https://github.com/Captressketh001",
-            "live_url_link":"kalculate.netlify.app"
+            "repo_link": "https://github.com/Captressketh001/adully",
+            "live_url_link":""
         }
     ]
 }
