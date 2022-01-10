@@ -77,21 +77,21 @@
 
         let imgWrap = document.createElement('div');
         imgWrap.classList.add('portfolio-info')
-        let imgLink = document.createElement('a');
-        //  imgLink.classList.add('venobox', 'link-preview');
-        imgLink.href = "images/" + data[i].img;
-        imgLink.title = 'portfolio';
-        imgLink.dataGall = "portfolioGallery"
+        // let imgLink = document.createElement('a');
+        // //  imgLink.classList.add('venobox', 'link-preview');
+        // imgLink.href = "images/" + data[i].img;
+        // imgLink.title = 'portfolio';
+        // imgLink.dataGall = "portfolioGallery"
 
-        let icon = document.createElement('i')
-        icon.classList.add('ion', 'ion-eye');
+        // let icon = document.createElement('i')
+        // icon.classList.add('ion', 'ion-eye');
 
-        imgLink.appendChild(icon)
+        // imgLink.appendChild(icon)
 
 
 
         linkWrap.appendChild(repoLink);
-        linkWrap.appendChild(imgLink)
+        // linkWrap.appendChild(imgLink)
         linkWrap.appendChild(liveUrlLink);
 
         portfolioItems.appendChild(header);
