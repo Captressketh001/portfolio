@@ -2,88 +2,71 @@
     "portfolio":
     [
         {
+            "title": "Easy Bank", 
+            "coded_with": "HTML, CSS and JS",
+            "repo_link": "https://github.com/Captressketh001/easy_bank",
+            "live_url_link":"https://ea-sybank.netlify.app"
+        },
+        {
             "title": "Portfolio", 
             "coded_with": "HTML, CSS and JS",
             "repo_link": "",
-            "live_url_link":"https://captressketh.netlify.app",
-            "img": "portfolio.png"
+            "live_url_link":"https://captressketh.netlify.app"
         },
         {
             "title": "The Voice Farm", 
             "coded_with": "HTML, CSS and JS",
-            "repo_link": "https",
-            "live_url_link":"https://voicefarm.netlify.app",
-            "img": "voice.png"
+            "repo_link": "https://github.com/Captressketh001/voicefarms",
+            "live_url_link":"https://voicefarm.netlify.app"
         },
+       
         {
             "title": "DOZI", 
             "coded_with": "HTML, CSS and JS",
-            "repo_link": "https",
-            "live_url_link":"https://dozi.netlify.app",
-            "img": "dozi.png"
+            "repo_link": "https://github.com/Captressketh001/dozi",
+            "live_url_link":"https://dozi.netlify.app"
         },
         {
             "title": "Kalculate", 
             "coded_with": "HTML, CSS and JS",
-            "repo_link": "https",
-            "live_url_link":"https://kalculate.netlify.app",
-            "img": "portfolio.png"
+            "repo_link": "https://github.com/Captressketh001/js-calculator",
+            "live_url_link":"https://kalculate.netlify.app"
         },
         {
             "title": "Weathlify", 
             "coded_with": "HTML, CSS and JS",
-            "repo_link": "https",
-            "live_url_link":"https://weathlify.netlify.app",
-            "img": "weathlify.png"
+            "repo_link": "https://github.com/Captressketh001/weather_app",
+            "live_url_link":"https://weathlify.netlify.app"
         },
         {
             "title": "Reformed", 
             "coded_with": "HTML, CSS and JS",
             "repo_link": "https",
-            "live_url_link":"https://reformed.netlify.app",
-            "img": "reformed.png"
+            "live_url_link":"https://reformed.netlify.app"
         },
         {
             "title": "Fylo Dark Theme", 
             "coded_with": "HTML, CSS and JS",
-            "repo_link": "https",
-            "live_url_link":"https://dk-fylo.netlify.app",
-            "img": "weathlify.png"
-        },
-        {
-            "title": "Easybank", 
-            "coded_with": "HTML, CSS and JS",
-            "repo_link": "https",
-            "live_url_link":"https://kalculate.netlify.app",
-            "img": "weathlify.png"
+            "repo_link": "https://github.com/Captressketh001/fylo-dark-theme-landing-page-master",
+            "live_url_link":"https://dk-fylo.netlify.app"
         },
         {
             "title": "SM Dashboard", 
             "coded_with": "HTML, CSS and JS",
-            "repo_link": "https",
-            "live_url_link":"https://sm-dash.netlify.app",
-            "img": "sm-dash.png"
+            "repo_link": "https://github.com/Captressketh001/social-media-dashboard-with-theme-switcher",
+            "live_url_link":"https://sm-dash.netlify.app"
         },
         {
             "title": "Todoleast", 
             "coded_with": "Python and FlaskSQLAlchemy",
-            "repo_link": "https",
-            "live_url_link":"https://todoleast.heroku.app",
-            "img": "todoleast.png"
+            "repo_link": "https://github.com/Captressketh001",
+            "live_url_link":"https://todoleast.heroku.app"
         },
         {
             "title": "Adully", 
             "coded_with": "Python and FlaskSQLAlchemy",
-            "repo_link": "https",
-            "live_url_link":"kalculate.netlify.app",
-            "img": "adully.png"
-        },
-        {
-            "title": "Mini Dict", 
-            "coded_with": "Python and FlaskSQLAlchemy",
-            "repo_link": "https",
-            "live_url_link":"https://todoleast.heroku.app",
-            "img": "mini-dict.png"
+            "repo_link": "https://github.com/Captressketh001",
+            "live_url_link":"kalculate.netlify.app"
         }
     ]
 }
