@@ -2,77 +2,49 @@
     "portfolio":
     [
         {
-            "title": "Easy Bank", 
-            "coded_with": "HTML, CSS and JS",
-            "repo_link": "https://github.com/Captressketh001/easy_bank",
-            "live_url_link":"https://ea-sybank.netlify.app"
-        },
-        {
-            "title": "Shortee (In progress)", 
-            "coded_with": "HTML, CSS and JS",
-            "repo_link": "https://github.com/Captressketh001/url_shortner",
-            "live_url_link":"https://shortee.netlify.app"
-        },
-        {
-            "title": "Portfolio", 
-            "coded_with": "HTML, CSS and JS",
-            "repo_link": "https://github.com/Captressketh001/portfolio",
-            "live_url_link":"https://captressketh.netlify.app"
-        },
-        {
-            "title": "The Voice Farm", 
-            "coded_with": "HTML, CSS and JS",
-            "repo_link": "https://github.com/Captressketh001/voicefarms",
-            "live_url_link":"https://voicefarm.netlify.app"
+            "title": "Emergency App", 
+            "coded_with": "HTML, CSS and Vue.JS",
+            "repo_link": "https://github.com/jobic10/ens-front-end",
+            "live_url_link":"http://ens.ng"
         },
        
         {
-            "title": "DOZI", 
-            "coded_with": "HTML, CSS and JS",
-            "repo_link": "https://github.com/Captressketh001/dozi",
-            "live_url_link":"https://dozi.netlify.app"
+            "title": "Job lister", 
+            "coded_with": "HTML, CSS and Vue.JS",
+            "repo_link": "https://github.com/Captressketh001/job-lista",
+            "live_url_link":"https://job-lista.netlify.app/"
         },
         {
-            "title": "Kalculate", 
-            "coded_with": "HTML, CSS and JS",
-            "repo_link": "https://github.com/Captressketh001/js-calculator",
-            "live_url_link":"https://kalculate.netlify.app"
+            "title": "E-cum Product App", 
+            "coded_with": "HTML, CSS and Vue.JS",
+            "repo_link": "https://github.com/Captressketh001/SCAMP-C6-Assessment",
+            "live_url_link":"https://e-cum.netlify.app/"
         },
-        {
-            "title": "Weathlify", 
-            "coded_with": "HTML, CSS and JS",
-            "repo_link": "https://github.com/Captressketh001/weather_app",
-            "live_url_link":"https://weathlify.netlify.app"
-        },
-        {
-            "title": "Reformed", 
-            "coded_with": "HTML, CSS and JS",
-            "repo_link": "https",
-            "live_url_link":"https://reformed.netlify.app"
-        },
-        {
-            "title": "Fylo Dark Theme", 
-            "coded_with": "HTML, CSS and JS",
-            "repo_link": "https://github.com/Captressketh001/fylo-dark-theme-landing-page-master",
-            "live_url_link":"https://dk-fylo.netlify.app"
-        },
-        {
-            "title": "SM Dashboard", 
-            "coded_with": "HTML, CSS and JS",
-            "repo_link": "https://github.com/Captressketh001/social-media-dashboard-with-theme-switcher",
-            "live_url_link":"https://sm-dash.netlify.app"
-        },
-        {
-            "title": "Todoleast", 
-            "coded_with": "Python and FlaskSQLAlchemy",
-            "repo_link": "https://github.com/Captressketh001",
-            "live_url_link":"https://todoleast.herokuapp.com"
-        },
-        {
-            "title": "Adully", 
-            "coded_with": "Python and FlaskSQLAlchemy",
-            "repo_link": "https://github.com/Captressketh001/adully",
-            "live_url_link":"https://github.com/Captressketh001/adully"
+       {
+        "title": "Dev Job", 
+            "coded_with": "HTML, CSS and Vue.JS",
+            "repo_link": "https://github.com/Captressketh001/dev-jobs",
+            "live_url_link":"https://deves-job.netlify.app/"
+       },
+       {
+        "title": "IP Address Tracker", 
+            "coded_with": "HTML, CSS and Vue.JS",
+            "repo_link": "https://github.com/Captressketh001/tracker",
+            "live_url_link":"https://tracipad.netlify.app/ "
+       },
+       {
+        "title": "Todo App", 
+            "coded_with": "HTML, CSS and Vue.JS",
+            "repo_link": "https://github.com/Captressketh001/Tudu-app",
+            "live_url_link":"https://tudu-lista.netlify.app"
+       },
+       {
+        "title": "URL Shortening", 
+        "coded_with": "HTML, CSS and Vue.JS",
+        "repo_link": "https://github.com/Captressketh001/url_shortner",
+        "live_url_link":"http://url-ly.netlify.app/"
         }
+       
+        
     ]
 }
