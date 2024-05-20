@@ -2,48 +2,66 @@
     "portfolio":
     [
         {
-            "title": "Emergency App", 
-            "coded_with": "HTML, CSS and Vue.JS",
-            "repo_link": "https://github.com/jobic10/ens-front-end",
-            "live_url_link":"http://ensng.com"
+            "title": "Rateflats", 
+            "coded_with": "AngularJS + SCSS + TypeScript",
+            "repo_link": "https://github.com/Captressketh001/",
+            "live_url_link":"https://rateflats.com/"
         },
-       
+        {
+            "title": "Adviza", 
+            "coded_with": "React.JS + Vite + Tailwind CSS + Firebase",
+            "repo_link": "https://github.com/Captressketh001/Adviza",
+            "live_url_link":"https://adviza.netlify.app/"
+        },
+        {
+            "title": "Viva", 
+            "coded_with": "Next.JS + TypeScript + Tailwind CSS",
+            "repo_link": "https://github.com/Captressketh001/viva-app",
+            "live_url_link":"https://viva-app.vercel.app/"
+        },
+        {
+            "title": "Mentorship Website", 
+                "coded_with": "HTML + CSS + Vue.JS",
+                "repo_link": "https://github.com/Captressketh001/dev-jobs",
+                "live_url_link":"https://deborah-crib.netlify.app/"
+           },
+        {
+            "title": "Dev Job", 
+                "coded_with": "HTML + CSS + Vue.JS",
+                "repo_link": "https://github.com/Captressketh001/dev-jobs",
+                "live_url_link":"https://deves-job.netlify.app/"
+           },
         {
             "title": "Job lister", 
-            "coded_with": "HTML, CSS and Vue.JS",
+            "coded_with": "HTML + CSS + Vue.JS",
             "repo_link": "https://github.com/Captressketh001/job-lista",
             "live_url_link":"https://job-lista.netlify.app/"
         },
         {
-            "title": "E-cum Product App", 
-            "coded_with": "HTML, CSS and Vue.JS",
+            "title": "Mini Product App", 
+            "coded_with": "HTML + CSS + Vue.JS",
             "repo_link": "https://github.com/Captressketh001/SCAMP-C6-Assessment",
             "live_url_link":"https://e-cum.netlify.app/"
         },
+       
        {
-        "title": "Dev Job", 
-            "coded_with": "HTML, CSS and Vue.JS",
-            "repo_link": "https://github.com/Captressketh001/dev-jobs",
-            "live_url_link":"https://deves-job.netlify.app/"
-       },
-       {
-        "title": "IP Address Tracker", 
-            "coded_with": "HTML, CSS and Vue.JS",
-            "repo_link": "https://github.com/Captressketh001/tracker",
-            "live_url_link":"https://tracipad.netlify.app/ "
-       },
-       {
-        "title": "Todo App", 
-            "coded_with": "HTML, CSS and Vue.JS",
-            "repo_link": "https://github.com/Captressketh001/Tudu-app",
-            "live_url_link":"https://tudu-lista.netlify.app"
-       },
-       {
-        "title": "URL Shortening", 
-        "coded_with": "HTML, CSS and Vue.JS",
+        "title": "URL Shortening App", 
+        "coded_with": "HTML + CSS + Vue.JS",
         "repo_link": "https://github.com/Captressketh001/url_shortner",
-        "live_url_link":"http://url-ly.netlify.app/"
-        }
+        "live_url_link":"https://url-ly.netlify.app/"
+        },
+        {
+            "title": "Social Media Dashboard", 
+            "coded_with": "HTML + CSS",
+            "repo_link": "https://github.com/Captressketh001/social-media-dashboard-with-theme-switcher",
+            "live_url_link":"https://sm-dash.netlify.app/"
+            },
+        {
+            "title": "Easy Bank", 
+            "coded_with": "HTML + CSS",
+            "repo_link": "https://github.com/Captressketh001/easy_bank",
+            "live_url_link":"https://ea-sybank.netlify.app/"
+            }
        
         
     ]

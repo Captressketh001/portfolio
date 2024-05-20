@@ -59,8 +59,9 @@
         let text = document.createElement('p');
 
         header.innerText = data[i].title;
-
+        header.style.textAlign = "center";
         text.innerText = data[i].coded_with;
+        text.style.textAlign = "center";
 
         let linkWrap = document.createElement('div');
 
@@ -71,9 +72,11 @@
         repoLink.innerText = "Repo"
 
         repoLink.href = data[i].repo_link;
+        repoLink.target = "_blank";
 
         liveUrlLink.innerText = "Live URL"
         liveUrlLink.href = data[i].live_url_link;
+        liveUrlLink.target = "_blank";
 
         let imgWrap = document.createElement('div');
         imgWrap.classList.add('portfolio-info')
